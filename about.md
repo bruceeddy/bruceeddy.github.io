@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+#About Me
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I'm a developer.  I'm interested in XP, functional programming and leading agile teams. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[github@bruceeddy.org](mailto:github@bruceeddy.org)
