@@ -12,10 +12,12 @@ I'm a developer.  I'm interested in many things, but on this blog will be writin
 
 The title of my blog is _The Job of a Programmer_.
 
-```
-The job of a programmer is to create 
-languages which enable solving problems
-```
+***
+
+_"The job of a programmer is to create 
+languages which enable solving problems"_
+
+***
 
 This is a quote which I attribute to [Paul Graham](http://https://en.wikipedia.org/wiki/Paul_Graham_(computer_programmer)). 
  I remember reading it in the preface to [Guy Steele]()'s book 
